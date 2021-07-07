@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SepedaMotor</string>
+    <string name="daftar">Daftar</string>
+    <string name="detail">Detail</string>
+    <string name="harga">Harga</string>
+    <string name="pemilik">pemilik</string>
+</resources>
